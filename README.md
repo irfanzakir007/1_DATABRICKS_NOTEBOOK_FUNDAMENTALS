@@ -1,2 +1,2 @@
-# 1_DATABRICKS_NOTEBOOK_FUNDAMENTALS
-Repo to maintain the databricks notebook and other object
+# iz_dbc_code_we49_repo
+Repo to maintain the Databricks notebook and other code objects
